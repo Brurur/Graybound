@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 9a72e1762c4fae6449cc772674e6facf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7609499548845457531
+    second: Graybound text_0
+  - first:
+      213: 4535004672169942268
+    second: Graybound text_1
+  - first:
+      213: -6667709413170237153
+    second: Graybound text_2
+  - first:
+      213: 9017559151982126667
+    second: Graybound text_3
+  - first:
+      213: 6053215281065111033
+    second: Graybound text_4
+  - first:
+      213: 2567114533325807930
+    second: Graybound text_5
+  - first:
+      213: -6541872126234061363
+    second: Graybound text_6
+  - first:
+      213: -3114633574524830936
+    second: Graybound text_7
+  - first:
+      213: 5878058853950587232
+    second: Graybound text_8
+  - first:
+      213: -3893203017920468159
+    second: Graybound text_9
+  - first:
+      213: -9223266845638165792
+    second: Graybound text_10
+  - first:
+      213: 4338466672591236243
+    second: Graybound text_11
+  - first:
+      213: 6939538124091571914
+    second: Graybound text_12
+  - first:
+      213: 5849277628396678610
+    second: Graybound text_13
+  - first:
+      213: -706069184661160475
+    second: Graybound text_14
+  - first:
+      213: -3222765466241688053
+    second: Graybound text_15
+  - first:
+      213: -8308413085285108105
+    second: Graybound text_16
+  - first:
+      213: 9188990429271930474
+    second: Graybound text_17
+  - first:
+      213: 8015421441434286560
+    second: Graybound text_18
+  - first:
+      213: 3296920563008493016
+    second: Graybound text_19
+  - first:
+      213: -6329577227530139491
+    second: Graybound text_20
+  - first:
+      213: -4007980870986487509
+    second: Graybound text_21
+  - first:
+      213: -4881787904237257859
+    second: Graybound text_22
+  - first:
+      213: 5323447471687002711
+    second: Graybound text_23
+  - first:
+      213: 7510468795145905639
+    second: Graybound text_24
+  - first:
+      213: 5692894616143932017
+    second: Graybound text_25
+  - first:
+      213: 4084337729775296491
+    second: Graybound text_26
+  - first:
+      213: 8191600510742537493
+    second: Graybound text_27
+  - first:
+      213: -1182338949458774805
+    second: Graybound text_28
+  - first:
+      213: 8961825100325940923
+    second: Graybound text_29
+  - first:
+      213: 3460770939428623130
+    second: Graybound text_30
+  - first:
+      213: -6629100797271344201
+    second: Graybound text_31
+  - first:
+      213: -5635949099918708323
+    second: Graybound text_32
+  - first:
+      213: -118644624221072558
+    second: Graybound text_33
+  - first:
+      213: 315831781917065385
+    second: Graybound text_34
+  - first:
+      213: -1176638711973537581
+    second: Graybound text_35
+  - first:
+      213: 9209868632329425314
+    second: Graybound text_36
+  - first:
+      213: 4979818377738274601
+    second: Graybound text_37
+  - first:
+      213: -6912117671406393267
+    second: Graybound text_38
+  - first:
+      213: -8889847535887921779
+    second: Graybound text_39
+  - first:
+      213: -4478369404863774949
+    second: Graybound text_40
+  - first:
+      213: -7766496039524393114
+    second: Graybound text_41
+  - first:
+      213: -2779844624404941461
+    second: Graybound text_42
+  - first:
+      213: 2635662444315864245
+    second: Graybound text_43
+  - first:
+      213: 3267724899466625363
+    second: Graybound text_44
+  - first:
+      213: -421786606746279010
+    second: Graybound text_45
+  - first:
+      213: 8717319232356582601
+    second: Graybound text_46
+  - first:
+      213: 5755431873659378134
+    second: Graybound text_47
+  - first:
+      213: 4485909224679772772
+    second: Graybound text_48
+  - first:
+      213: 9039815862670425668
+    second: Graybound text_49
+  - first:
+      213: -2245802643028373024
+    second: Graybound text_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Graybound text_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 288
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f32982a70a56690800000000000000
+      internalID: -7609499548845457531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_1
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 325
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc1d6bc8b29fee30800000000000000
+      internalID: 4535004672169942268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_2
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 345
+        width: 89
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11b572ad998773a0800000000000000
+      internalID: -6667709413170237153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_3
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 278
+        width: 144
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46a7fa854ec42d70800000000000000
+      internalID: 9017559151982126667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_4
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 87
+        width: 161
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd2ad01a37510450800000000000000
+      internalID: 6053215281065111033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 304
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31a0a0211930a320800000000000000
+      internalID: 2567114533325807930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_6
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 90
+        width: 199
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc51ac526f99635a0800000000000000
+      internalID: -6541872126234061363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_7
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 329
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b31f8144996c4d0800000000000000
+      internalID: -3114633574524830936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 295
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0618096626f039150800000000000000
+      internalID: 5878058853950587232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 289
+        width: 138
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b2f567b7098f9c0800000000000000
+      internalID: -3893203017920468159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 292
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea791dbbaf500080800000000000000
+      internalID: -9223266845638165792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 293
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ceba9d374553c30800000000000000
+      internalID: 4338466672591236243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_12
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 292
+        width: 48
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace32c718213e4060800000000000000
+      internalID: 6939538124091571914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_13
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 66
+        width: 355
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd2931230fcc2150800000000000000
+      internalID: 5849277628396678610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_14
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 280
+        width: 43
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edfb6541d98336f0800000000000000
+      internalID: -706069184661160475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 19
+        width: 154
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e944622ef6643d0800000000000000
+      internalID: -3222765466241688053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 227
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776bf5c915692bc80800000000000000
+      internalID: -8308413085285108105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 76
+        width: 145
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66b73d2c1ad58f70800000000000000
+      internalID: 9188990429271930474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_18
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 83
+        width: 141
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e97dbd555f7c3f60800000000000000
+      internalID: 8015421441434286560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_19
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 239
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d55dc2c8c301cd20800000000000000
+      internalID: 3296920563008493016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_20
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 69
+        width: 192
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d980aae0c03d828a0800000000000000
+      internalID: -6329577227530139491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_21
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 245
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b292a4e02aac068c0800000000000000
+      internalID: -4007980870986487509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 223
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bb32314c7604cb0800000000000000
+      internalID: -4881787904237257859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_23
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 232
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aea5a454fa0e940800000000000000
+      internalID: 5323447471687002711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 102
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5e357b39b8a3860800000000000000
+      internalID: 7510468795145905639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_25
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 103
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a2efabd79310f40800000000000000
+      internalID: 5692894616143932017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_26
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 125
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef5bf5868b7ea830800000000000000
+      internalID: 4084337729775296491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_27
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 155
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515a7b873496ea170800000000000000
+      internalID: 8191600510742537493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_28
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 75
+        width: 48
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4b6616dfc779fe0800000000000000
+      internalID: -1182338949458774805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_29
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 154
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe6b1c627cce5c70800000000000000
+      internalID: 8961825100325940923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_30
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 134
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1353ad55d0270030800000000000000
+      internalID: 3460770939428623130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_31
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 100
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbf16682f3b004a0800000000000000
+      internalID: -6629100797271344201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_32
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 71
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91b927772619c1b0800000000000000
+      internalID: -5635949099918708323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_33
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 81
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2531bc6c75d7a5ef0800000000000000
+      internalID: -118644624221072558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_34
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 85
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a002f1155f026400800000000000000
+      internalID: 315831781917065385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_35
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 73
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d818d7535dbbafe0800000000000000
+      internalID: -1176638711973537581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_36
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 72
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a11202a9b600df70800000000000000
+      internalID: 9209868632329425314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_37
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 70
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9274d0b2e6edb1540800000000000000
+      internalID: 4979818377738274601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_38
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 70
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d482f1e89993310a0800000000000000
+      internalID: -6912117671406393267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_39
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 47
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dc40c34cae0a480800000000000000
+      internalID: -8889847535887921779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_40
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ffd12f0c2a9d1c0800000000000000
+      internalID: -4478369404863774949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_41
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 38
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f9bae200dd73490800000000000000
+      internalID: -7766496039524393114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_42
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 0
+        width: 97
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b657097da020c69d0800000000000000
+      internalID: -2779844624404941461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_43
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 35
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bce84d5701c39420800000000000000
+      internalID: 2635662444315864245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_44
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3514860ab7a495d20800000000000000
+      internalID: 3267724899466625363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_45
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93eeddd053852af0800000000000000
+      internalID: -421786606746279010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_46
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 23
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c48b4ec7a32af870800000000000000
+      internalID: 8717319232356582601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_47
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d99d66abc66fdf40800000000000000
+      internalID: 5755431873659378134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_48
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4629fa72ca6214e30800000000000000
+      internalID: 4485909224679772772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_49
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 0
+        width: 94
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e7961d1a0e37d70800000000000000
+      internalID: 9039815862670425668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graybound text_50
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 4
+        width: 65
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e119aa156e45d0e0800000000000000
+      internalID: -2245802643028373024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Graybound text_0: -7609499548845457531
+      Graybound text_1: 4535004672169942268
+      Graybound text_10: -9223266845638165792
+      Graybound text_11: 4338466672591236243
+      Graybound text_12: 6939538124091571914
+      Graybound text_13: 5849277628396678610
+      Graybound text_14: -706069184661160475
+      Graybound text_15: -3222765466241688053
+      Graybound text_16: -8308413085285108105
+      Graybound text_17: 9188990429271930474
+      Graybound text_18: 8015421441434286560
+      Graybound text_19: 3296920563008493016
+      Graybound text_2: -6667709413170237153
+      Graybound text_20: -6329577227530139491
+      Graybound text_21: -4007980870986487509
+      Graybound text_22: -4881787904237257859
+      Graybound text_23: 5323447471687002711
+      Graybound text_24: 7510468795145905639
+      Graybound text_25: 5692894616143932017
+      Graybound text_26: 4084337729775296491
+      Graybound text_27: 8191600510742537493
+      Graybound text_28: -1182338949458774805
+      Graybound text_29: 8961825100325940923
+      Graybound text_3: 9017559151982126667
+      Graybound text_30: 3460770939428623130
+      Graybound text_31: -6629100797271344201
+      Graybound text_32: -5635949099918708323
+      Graybound text_33: -118644624221072558
+      Graybound text_34: 315831781917065385
+      Graybound text_35: -1176638711973537581
+      Graybound text_36: 9209868632329425314
+      Graybound text_37: 4979818377738274601
+      Graybound text_38: -6912117671406393267
+      Graybound text_39: -8889847535887921779
+      Graybound text_4: 6053215281065111033
+      Graybound text_40: -4478369404863774949
+      Graybound text_41: -7766496039524393114
+      Graybound text_42: -2779844624404941461
+      Graybound text_43: 2635662444315864245
+      Graybound text_44: 3267724899466625363
+      Graybound text_45: -421786606746279010
+      Graybound text_46: 8717319232356582601
+      Graybound text_47: 5755431873659378134
+      Graybound text_48: 4485909224679772772
+      Graybound text_49: 9039815862670425668
+      Graybound text_5: 2567114533325807930
+      Graybound text_50: -2245802643028373024
+      Graybound text_6: -6541872126234061363
+      Graybound text_7: -3114633574524830936
+      Graybound text_8: 5878058853950587232
+      Graybound text_9: -3893203017920468159
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

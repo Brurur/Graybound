@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 8677bd0ab532ef341970a5e908a91b28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5054529534012956327
+    second: Prima Facie Placeholder_0
+  - first:
+      213: 1605073090971182408
+    second: Prima Facie Placeholder_1
+  - first:
+      213: 3199927070299990875
+    second: Prima Facie Placeholder_2
+  - first:
+      213: 4564056657272364977
+    second: Prima Facie Placeholder_3
+  - first:
+      213: -5992246270231840541
+    second: Prima Facie Placeholder_4
+  - first:
+      213: 8448726742796651659
+    second: Prima Facie Placeholder_5
+  - first:
+      213: -6244727397694762423
+    second: Prima Facie Placeholder_6
+  - first:
+      213: -9155893183757877359
+    second: Prima Facie Placeholder_7
+  - first:
+      213: 4207439103688458194
+    second: Prima Facie Placeholder_8
+  - first:
+      213: -7403685578964558095
+    second: Prima Facie Placeholder_9
+  - first:
+      213: 9093381837924523875
+    second: Prima Facie Placeholder_10
+  - first:
+      213: 6579841167478060535
+    second: Prima Facie Placeholder_11
+  - first:
+      213: -3136694800424986460
+    second: Prima Facie Placeholder_12
+  - first:
+      213: 7480621873508902487
+    second: Prima Facie Placeholder_13
+  - first:
+      213: 7857099503651144680
+    second: Prima Facie Placeholder_14
+  - first:
+      213: 2945968220744236006
+    second: Prima Facie Placeholder_15
+  - first:
+      213: 8396706909034779218
+    second: Prima Facie Placeholder_16
+  - first:
+      213: -6511314831970616228
+    second: Prima Facie Placeholder_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 531
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae1095c4db452640800000000000000
+      internalID: 5054529534012956327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 528
+        width: 95
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84520e1e87d564610800000000000000
+      internalID: 1605073090971182408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 531
+        width: 16
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b236c67bc686c20800000000000000
+      internalID: 3199927070299990875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 531
+        width: 113
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfd97f2959c65f30800000000000000
+      internalID: 4564056657272364977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 531
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8fb28f3c347dca0800000000000000
+      internalID: -5992246270231840541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 531
+        width: 68
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cccb49538ef3570800000000000000
+      internalID: 8448726742796651659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_6
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 531
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942114d84854659a0800000000000000
+      internalID: -6244727397694762423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_7
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 527
+        width: 108
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ff0bcc8abbfe080800000000000000
+      internalID: -9155893183757877359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_8
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 531
+        width: 15
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df3075a293d36a30800000000000000
+      internalID: 4207439103688458194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_9
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 531
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe922d3133d04990800000000000000
+      internalID: -7403685578964558095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_10
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 433
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fda705a9e223e70800000000000000
+      internalID: 9093381837924523875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 433
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5750a2eaa405b50800000000000000
+      internalID: 6579841167478060535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_12
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 432
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a89adba2b83874d0800000000000000
+      internalID: -3136694800424986460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 432
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756e38db5f180d760800000000000000
+      internalID: 7480621873508902487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_14
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 432
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e34600be560a0d60800000000000000
+      internalID: 7857099503651144680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_15
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 433
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebbc050d7e22e820800000000000000
+      internalID: 2945968220744236006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_16
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 432
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25216143278178470800000000000000
+      internalID: 8396706909034779218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prima Facie Placeholder_17
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 432
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cb8a3a8a923a5a0800000000000000
+      internalID: -6511314831970616228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Prima Facie Placeholder_0: 5054529534012956327
+      Prima Facie Placeholder_1: 1605073090971182408
+      Prima Facie Placeholder_10: 9093381837924523875
+      Prima Facie Placeholder_11: 6579841167478060535
+      Prima Facie Placeholder_12: -3136694800424986460
+      Prima Facie Placeholder_13: 7480621873508902487
+      Prima Facie Placeholder_14: 7857099503651144680
+      Prima Facie Placeholder_15: 2945968220744236006
+      Prima Facie Placeholder_16: 8396706909034779218
+      Prima Facie Placeholder_17: -6511314831970616228
+      Prima Facie Placeholder_2: 3199927070299990875
+      Prima Facie Placeholder_3: 4564056657272364977
+      Prima Facie Placeholder_4: -5992246270231840541
+      Prima Facie Placeholder_5: 8448726742796651659
+      Prima Facie Placeholder_6: -6244727397694762423
+      Prima Facie Placeholder_7: -9155893183757877359
+      Prima Facie Placeholder_8: 4207439103688458194
+      Prima Facie Placeholder_9: -7403685578964558095
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

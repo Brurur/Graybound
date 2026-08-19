@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using DG.Tweening;
 
 public class SplashParticles : MonoBehaviour
 {
@@ -9,6 +11,8 @@ public class SplashParticles : MonoBehaviour
     [SerializeField] AudioClip click;
     [SerializeField] Texture2D cursorTexture;
 
+    private CanvasGroup fadeOverlay;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -16,6 +20,7 @@ public class SplashParticles : MonoBehaviour
         Invoke("TurnOff", 16f);
         Invoke("PlaySwoosh", 13.5f);
         Cursor.visible = false;
+        fadeOverlay = GameObject.Find("Fade Overlay").GetComponent<CanvasGroup>();
     }
 
     private void TurnOff()
@@ -42,5 +47,21 @@ public class SplashParticles : MonoBehaviour
     {
         audioSource.pitch = Random.Range(0.8f, 1.2f);
         audioSource.PlayOneShot(click);
+    }
+
+    public void ClickPlay()
+    {
+        Invoke("LevelOne", 2f);
+        fadeOverlay.DOFade(1, 2);
+    }
+
+    private void LevelOne()
+    {
+        SceneManager.LoadScene("Level 1");
+    }
+
+    public void ClickQuit()
+    {
+        Application.Quit();
     }
 }
